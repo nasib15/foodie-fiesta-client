@@ -24,8 +24,8 @@
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/knh-nehal/foodie-fiesta-client-side.git
-   cd foodie-fiesta-client-side
+   git clone https://github.com/nasib15/foodie-fiesta-client.git
+   cd foodie-fiesta-client
    ```
 
 2. **Install the dependencies:**
