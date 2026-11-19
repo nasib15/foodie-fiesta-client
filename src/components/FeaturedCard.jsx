@@ -1,5 +1,4 @@
 /* eslint-disable react/prop-types */
-/* eslint-disable react/no-unescaped-entities */
 import { Button } from "@material-tailwind/react";
 import React from "react";
 import { Link } from "react-router-dom";

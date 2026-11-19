@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
 import { Button, Carousel, Typography } from "@material-tailwind/react";
 import { Typewriter } from "react-simple-typewriter";
 
