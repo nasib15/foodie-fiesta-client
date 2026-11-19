@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
 import { useQuery } from "@tanstack/react-query";
 import React from "react";
 import { Helmet } from "react-helmet";
